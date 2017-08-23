@@ -6,6 +6,10 @@
 
 - QIS: quantitative instrument strategies
 
+- fundamental-equity mutual funds
+
+- market-neutral hedge funds 
+
 ### Topics of INterest
 Quartz and risk
 Quants and securities
