@@ -1,6 +1,6 @@
 ## Books
 
-1. [An Introduction to Stocastic Calculus with applications to finance](https://people.emich.edu/ocalin/Teaching_files/D18N.pdf)
+1. [An Introduction to Stochastic Calculus with applications to finance](https://people.emich.edu/ocalin/Teaching_files/D18N.pdf)
 
 2. [Options futures and other derivatives](https://www.amazon.com/Options-Futures-Derivatives-DerivaGem-Package/dp/0132777428/ref=mt_hardcover?_encoding=UTF8&me=)
 
